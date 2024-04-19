@@ -11,15 +11,21 @@ Experience the convenience of online shopping at its finest with our intuitive i
 Technologies Used
 
 .HTML
+
 .CSS
+
 .Javascript
+
 .Django
 
 Contributors
 
 .Hemangini Patel
+
 .Aditi Ambasta
+
 .Ashna Aglawe
+
 .Ami Khatri
 
 
