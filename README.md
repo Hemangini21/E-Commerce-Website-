@@ -14,7 +14,7 @@ Experience the convenience of online shopping at its finest with our intuitive i
 .Javascript<br>
 .Django<br>
 
-#Contributors<br>
+**Contributors**<br>
 .Hemangini Patel<br>
 .Aditi Ambasta<br>
 .Ashna Aglawe<br>
